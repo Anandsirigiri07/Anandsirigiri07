@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anandsirigiri07&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<!--
-**Anandsirigiri07/Anandsirigiri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Sirigiri Anand Kumar! 👋</h1>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const anand = {
+  education: {
+    degree: "B.Tech — Computer Science & Information Technology",
+    university: "REVA University"
+  },
+  focus: [
+    "Full-Stack Development", 
+    "AI Integration"
+  ],
+  techStack: {
+    frontend: ["React", "Vite", "JavaScript", "HTML", "CSS"],
+    backend: ["Node.js", "Python", "C"],
+    ai: ["Google AI Studio", "Gemini API", "Model Context Protocol"],
+    deployment: ["Vercel"]
+  },
+  currentlyBuilding: [
+    "MediTrack (AI pharmacy system)",
+    "Digital Sanctuary (Smart study application)"
+  ]
+};
